@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings! 👋
 
 <!--
 **Ricardo3DLM/Ricardo3DLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a fresh out of school Data Scientist with a Bachelors on Business Administration (BCIT, Canada), working on getting into the coding industry.
+Data, calculus, and statistics have always been my strength, and now I'm focusing on putting my coding skills into practice.
+If you happen to have an interesting thesis based on data that you have that you'd like to share, please do!
+
+Best regards.
